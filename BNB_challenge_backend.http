@@ -1,0 +1,6 @@
+@BNB_challenge_backend_HostAddress = http://localhost:5150
+
+GET {{BNB_challenge_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
